@@ -2,6 +2,7 @@ from openai import OpenAI
 import streamlit as st
 import os
 
+st.image('Logo_Landscape_Colored.png', width=300)
 st.title("AI Tutor")
 
 # Initialize OpenAI client
